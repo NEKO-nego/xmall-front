@@ -1,5 +1,27 @@
 ## XMall-Front
 ### 基于Vue开发的XMall商城前台页面
+
+
+
+just for test????
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### [宣传视频](https://www.bilibili.com/video/av23121122/)
 - 作者亲自制作 [点我观看](https://www.bilibili.com/video/av23121122/)
 ### 项目已部署，在线Demo
